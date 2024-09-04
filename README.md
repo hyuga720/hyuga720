@@ -7,7 +7,7 @@ I'm a mobile engineer.
 ## Activity
 
 ## 🏆 My GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Hirota723&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=hyuga720&theme=gruvbox)
 
 
 ### Most Used Languages
