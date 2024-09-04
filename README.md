@@ -24,9 +24,4 @@ I'm a mobile engineer.
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-## Fun Animations
-![Pac-Man](https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif)
-
-## Simple SVG Animation
-<img src="https://svgshare.com/i/BNq.svg" alt="simple animation" width="300"/>
 
