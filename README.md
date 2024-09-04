@@ -21,7 +21,3 @@ I'm a mobile engineer.
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 
-
-## Achievements
-![Achievement 1](https://img.shields.io/badge/YOLO-x2-blue?style=for-the-badge)
-![Achievement 2](https://img.shields.io/badge/Master-cool-blue?style=for-the-badge)
